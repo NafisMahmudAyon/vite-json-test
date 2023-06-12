@@ -1,4 +1,56 @@
 {
+    "products": [
+        {
+            "id": "1",
+            "name": "T-Shirt-1",
+            "category": "T-Shirts",
+            "productCode": "1010",
+            "description": "T-Shirt",
+            "price": "400",
+            "in_stock": 1,
+            "status": "Available",
+            "background": "red",
+            "image": "/pdt1.png"
+        },
+        {
+            "id": "2",
+            "name": "T-Shirt-2",
+            "category": "T-Shirts",
+            "productCode": "1011",
+            "description": "T-Shirt",
+            "price": "450",
+            "in_stock": 0,
+            "status": "Not Available",
+            "background": "black",
+            "image": "/pdt2.png"
+        },
+        {
+            "id": "3",
+            "name": "T-Shirt-3",
+            "category": "T-Shirts",
+            "productCode": "1012",
+            "description": "T-Shirt",
+            "price": "350",
+            "in_stock": 1,
+            "status": "Available",
+            "background": "red",
+            "image": "/pdt3.png"
+        }
+    ],
+    "color": [
+        {
+            "id": 1,
+            "color": "red"
+        },
+        {
+            "id": 2,
+            "color": "blue"
+        },
+        {
+            "id": 3,
+            "color": "black"
+        }
+    ],
     "dashboard": [
         {
             "id": "1000",
